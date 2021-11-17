@@ -241,7 +241,7 @@ color: green
 	height: 20px;
 	width: 20px;
 	display: inline-block;
-	viewport-fit: top;
+	vertical-align: top;
 	margin: 7px 15px 0px 0px;
 }
 .listj li:hover::before {
